@@ -1,0 +1,5 @@
+YAMNet was created by Google and trained on AudioSet.
+Source repository and ONNX conversion: https://huggingface.co/audiomagic/yamnet-onnx
+The upstream model is licensed under Apache License 2.0 (see YAMNET-LICENSE.txt).
+The AudioSet class map is licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ .
+The ONNX file is a format conversion of Google's YAMNet; the source model card documents its provenance and conversion process.
