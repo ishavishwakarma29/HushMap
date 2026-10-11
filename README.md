@@ -6,7 +6,7 @@ Built for the [Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass](https
 
 ## Demo
 
-[Watch the Hushmap demo on YouTube](https://youtu.be/EhRVPnIre8A)
+[Watch the Hushmap demo on YouTube](https://youtu.be/u-0H5Jq2Qfw)
 
 The map presents an illustrative neighborhood soundscape. The demo also shows YAMNet classifying audio locally in the browser.
 
